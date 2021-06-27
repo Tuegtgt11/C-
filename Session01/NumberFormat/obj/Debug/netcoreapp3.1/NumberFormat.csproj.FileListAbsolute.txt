@@ -1,0 +1,13 @@
+D:\C#\Session01\NumberFormat\bin\Debug\netcoreapp3.1\NumberFormat.exe
+D:\C#\Session01\NumberFormat\bin\Debug\netcoreapp3.1\NumberFormat.deps.json
+D:\C#\Session01\NumberFormat\bin\Debug\netcoreapp3.1\NumberFormat.runtimeconfig.json
+D:\C#\Session01\NumberFormat\bin\Debug\netcoreapp3.1\NumberFormat.runtimeconfig.dev.json
+D:\C#\Session01\NumberFormat\bin\Debug\netcoreapp3.1\NumberFormat.dll
+D:\C#\Session01\NumberFormat\bin\Debug\netcoreapp3.1\NumberFormat.pdb
+D:\C#\Session01\NumberFormat\obj\Debug\netcoreapp3.1\NumberFormat.AssemblyInfoInputs.cache
+D:\C#\Session01\NumberFormat\obj\Debug\netcoreapp3.1\NumberFormat.AssemblyInfo.cs
+D:\C#\Session01\NumberFormat\obj\Debug\netcoreapp3.1\NumberFormat.csproj.CoreCompileInputs.cache
+D:\C#\Session01\NumberFormat\obj\Debug\netcoreapp3.1\NumberFormat.dll
+D:\C#\Session01\NumberFormat\obj\Debug\netcoreapp3.1\NumberFormat.pdb
+D:\C#\Session01\NumberFormat\obj\Debug\netcoreapp3.1\NumberFormat.genruntimeconfig.cache
+D:\C#\Session01\NumberFormat\obj\Debug\netcoreapp3.1\NumberFormat.csproj.AssemblyReference.cache

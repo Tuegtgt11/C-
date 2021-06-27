@@ -1,0 +1,12 @@
+D:\C#\Session01\AnonTypes\obj\Debug\netcoreapp3.1\AnonTypes.AssemblyInfoInputs.cache
+D:\C#\Session01\AnonTypes\obj\Debug\netcoreapp3.1\AnonTypes.AssemblyInfo.cs
+D:\C#\Session01\AnonTypes\obj\Debug\netcoreapp3.1\AnonTypes.csproj.CoreCompileInputs.cache
+D:\C#\Session01\AnonTypes\bin\Debug\netcoreapp3.1\AnonTypes.exe
+D:\C#\Session01\AnonTypes\bin\Debug\netcoreapp3.1\AnonTypes.deps.json
+D:\C#\Session01\AnonTypes\bin\Debug\netcoreapp3.1\AnonTypes.runtimeconfig.json
+D:\C#\Session01\AnonTypes\bin\Debug\netcoreapp3.1\AnonTypes.runtimeconfig.dev.json
+D:\C#\Session01\AnonTypes\bin\Debug\netcoreapp3.1\AnonTypes.dll
+D:\C#\Session01\AnonTypes\bin\Debug\netcoreapp3.1\AnonTypes.pdb
+D:\C#\Session01\AnonTypes\obj\Debug\netcoreapp3.1\AnonTypes.dll
+D:\C#\Session01\AnonTypes\obj\Debug\netcoreapp3.1\AnonTypes.pdb
+D:\C#\Session01\AnonTypes\obj\Debug\netcoreapp3.1\AnonTypes.genruntimeconfig.cache

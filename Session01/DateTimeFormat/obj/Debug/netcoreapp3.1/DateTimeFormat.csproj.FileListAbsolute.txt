@@ -1,0 +1,13 @@
+D:\C#\Session01\DateTimeFormat\obj\Debug\netcoreapp3.1\DateTimeFormat.AssemblyInfoInputs.cache
+D:\C#\Session01\DateTimeFormat\obj\Debug\netcoreapp3.1\DateTimeFormat.AssemblyInfo.cs
+D:\C#\Session01\DateTimeFormat\obj\Debug\netcoreapp3.1\DateTimeFormat.csproj.CoreCompileInputs.cache
+D:\C#\Session01\DateTimeFormat\bin\Debug\netcoreapp3.1\DateTimeFormat.exe
+D:\C#\Session01\DateTimeFormat\bin\Debug\netcoreapp3.1\DateTimeFormat.deps.json
+D:\C#\Session01\DateTimeFormat\bin\Debug\netcoreapp3.1\DateTimeFormat.runtimeconfig.json
+D:\C#\Session01\DateTimeFormat\bin\Debug\netcoreapp3.1\DateTimeFormat.runtimeconfig.dev.json
+D:\C#\Session01\DateTimeFormat\bin\Debug\netcoreapp3.1\DateTimeFormat.dll
+D:\C#\Session01\DateTimeFormat\bin\Debug\netcoreapp3.1\DateTimeFormat.pdb
+D:\C#\Session01\DateTimeFormat\obj\Debug\netcoreapp3.1\DateTimeFormat.dll
+D:\C#\Session01\DateTimeFormat\obj\Debug\netcoreapp3.1\DateTimeFormat.pdb
+D:\C#\Session01\DateTimeFormat\obj\Debug\netcoreapp3.1\DateTimeFormat.genruntimeconfig.cache
+D:\C#\Session01\DateTimeFormat\obj\Debug\netcoreapp3.1\DateTimeFormat.csproj.AssemblyReference.cache

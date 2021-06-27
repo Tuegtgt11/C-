@@ -1,0 +1,12 @@
+D:\C#\Session01\Ex5\bin\Debug\netcoreapp3.1\Ex5.exe
+D:\C#\Session01\Ex5\bin\Debug\netcoreapp3.1\Ex5.deps.json
+D:\C#\Session01\Ex5\bin\Debug\netcoreapp3.1\Ex5.runtimeconfig.json
+D:\C#\Session01\Ex5\bin\Debug\netcoreapp3.1\Ex5.runtimeconfig.dev.json
+D:\C#\Session01\Ex5\bin\Debug\netcoreapp3.1\Ex5.dll
+D:\C#\Session01\Ex5\bin\Debug\netcoreapp3.1\Ex5.pdb
+D:\C#\Session01\Ex5\obj\Debug\netcoreapp3.1\Ex5.AssemblyInfoInputs.cache
+D:\C#\Session01\Ex5\obj\Debug\netcoreapp3.1\Ex5.AssemblyInfo.cs
+D:\C#\Session01\Ex5\obj\Debug\netcoreapp3.1\Ex5.csproj.CoreCompileInputs.cache
+D:\C#\Session01\Ex5\obj\Debug\netcoreapp3.1\Ex5.dll
+D:\C#\Session01\Ex5\obj\Debug\netcoreapp3.1\Ex5.pdb
+D:\C#\Session01\Ex5\obj\Debug\netcoreapp3.1\Ex5.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C#\Session01\ImplicitlyTypedLocal\bin\Debug\netcoreapp3.1\ImplicitlyTypedLocal.exe
+D:\C#\Session01\ImplicitlyTypedLocal\bin\Debug\netcoreapp3.1\ImplicitlyTypedLocal.deps.json
+D:\C#\Session01\ImplicitlyTypedLocal\bin\Debug\netcoreapp3.1\ImplicitlyTypedLocal.runtimeconfig.json
+D:\C#\Session01\ImplicitlyTypedLocal\bin\Debug\netcoreapp3.1\ImplicitlyTypedLocal.runtimeconfig.dev.json
+D:\C#\Session01\ImplicitlyTypedLocal\bin\Debug\netcoreapp3.1\ImplicitlyTypedLocal.dll
+D:\C#\Session01\ImplicitlyTypedLocal\bin\Debug\netcoreapp3.1\ImplicitlyTypedLocal.pdb
+D:\C#\Session01\ImplicitlyTypedLocal\obj\Debug\netcoreapp3.1\ImplicitlyTypedLocal.AssemblyInfoInputs.cache
+D:\C#\Session01\ImplicitlyTypedLocal\obj\Debug\netcoreapp3.1\ImplicitlyTypedLocal.AssemblyInfo.cs
+D:\C#\Session01\ImplicitlyTypedLocal\obj\Debug\netcoreapp3.1\ImplicitlyTypedLocal.csproj.CoreCompileInputs.cache
+D:\C#\Session01\ImplicitlyTypedLocal\obj\Debug\netcoreapp3.1\ImplicitlyTypedLocal.dll
+D:\C#\Session01\ImplicitlyTypedLocal\obj\Debug\netcoreapp3.1\ImplicitlyTypedLocal.pdb
+D:\C#\Session01\ImplicitlyTypedLocal\obj\Debug\netcoreapp3.1\ImplicitlyTypedLocal.genruntimeconfig.cache
+D:\C#\Session01\ImplicitlyTypedLocal\obj\Debug\netcoreapp3.1\ImplicitlyTypedLocal.csproj.AssemblyReference.cache

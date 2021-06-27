@@ -1,0 +1,13 @@
+D:\C#\Session01\ReferenceType\bin\Debug\netcoreapp3.1\ReferenceType.exe
+D:\C#\Session01\ReferenceType\bin\Debug\netcoreapp3.1\ReferenceType.deps.json
+D:\C#\Session01\ReferenceType\bin\Debug\netcoreapp3.1\ReferenceType.runtimeconfig.json
+D:\C#\Session01\ReferenceType\bin\Debug\netcoreapp3.1\ReferenceType.runtimeconfig.dev.json
+D:\C#\Session01\ReferenceType\bin\Debug\netcoreapp3.1\ReferenceType.dll
+D:\C#\Session01\ReferenceType\bin\Debug\netcoreapp3.1\ReferenceType.pdb
+D:\C#\Session01\ReferenceType\obj\Debug\netcoreapp3.1\ReferenceType.csproj.AssemblyReference.cache
+D:\C#\Session01\ReferenceType\obj\Debug\netcoreapp3.1\ReferenceType.AssemblyInfoInputs.cache
+D:\C#\Session01\ReferenceType\obj\Debug\netcoreapp3.1\ReferenceType.AssemblyInfo.cs
+D:\C#\Session01\ReferenceType\obj\Debug\netcoreapp3.1\ReferenceType.csproj.CoreCompileInputs.cache
+D:\C#\Session01\ReferenceType\obj\Debug\netcoreapp3.1\ReferenceType.dll
+D:\C#\Session01\ReferenceType\obj\Debug\netcoreapp3.1\ReferenceType.pdb
+D:\C#\Session01\ReferenceType\obj\Debug\netcoreapp3.1\ReferenceType.genruntimeconfig.cache

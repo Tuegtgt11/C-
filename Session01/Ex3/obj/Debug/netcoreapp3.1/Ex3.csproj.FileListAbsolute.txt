@@ -1,0 +1,12 @@
+D:\C#\Session01\Ex3\bin\Debug\netcoreapp3.1\Ex3.exe
+D:\C#\Session01\Ex3\bin\Debug\netcoreapp3.1\Ex3.deps.json
+D:\C#\Session01\Ex3\bin\Debug\netcoreapp3.1\Ex3.runtimeconfig.json
+D:\C#\Session01\Ex3\bin\Debug\netcoreapp3.1\Ex3.runtimeconfig.dev.json
+D:\C#\Session01\Ex3\bin\Debug\netcoreapp3.1\Ex3.dll
+D:\C#\Session01\Ex3\bin\Debug\netcoreapp3.1\Ex3.pdb
+D:\C#\Session01\Ex3\obj\Debug\netcoreapp3.1\Ex3.AssemblyInfoInputs.cache
+D:\C#\Session01\Ex3\obj\Debug\netcoreapp3.1\Ex3.AssemblyInfo.cs
+D:\C#\Session01\Ex3\obj\Debug\netcoreapp3.1\Ex3.csproj.CoreCompileInputs.cache
+D:\C#\Session01\Ex3\obj\Debug\netcoreapp3.1\Ex3.dll
+D:\C#\Session01\Ex3\obj\Debug\netcoreapp3.1\Ex3.pdb
+D:\C#\Session01\Ex3\obj\Debug\netcoreapp3.1\Ex3.genruntimeconfig.cache
