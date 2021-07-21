@@ -1,0 +1,4 @@
+C:\Users\LENOVO\source\repos\Thi Thực Hành\Ex1\obj\Debug\netcoreapp3.1\GeometryExample.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Thi Thực Hành\Ex1\obj\Debug\netcoreapp3.1\GeometryExample.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Thi Thực Hành\Ex1\obj\Debug\netcoreapp3.1\GeometryExample.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Thi Thực Hành\Ex1\obj\Debug\netcoreapp3.1\GeometryExample.csproj.CoreCompileInputs.cache
