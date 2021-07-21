@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\Starbucks\bin\Debug\netcoreapp3.1\Starbucks Coffee.exe
+C:\Users\LENOVO\source\repos\Starbucks\bin\Debug\netcoreapp3.1\Starbucks Coffee.deps.json
+C:\Users\LENOVO\source\repos\Starbucks\bin\Debug\netcoreapp3.1\Starbucks Coffee.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Starbucks\bin\Debug\netcoreapp3.1\Starbucks Coffee.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Starbucks\bin\Debug\netcoreapp3.1\Starbucks Coffee.dll
+C:\Users\LENOVO\source\repos\Starbucks\bin\Debug\netcoreapp3.1\Starbucks Coffee.pdb
+C:\Users\LENOVO\source\repos\Starbucks\obj\Debug\netcoreapp3.1\Starbucks Coffee.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Starbucks\obj\Debug\netcoreapp3.1\Starbucks Coffee.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Starbucks\obj\Debug\netcoreapp3.1\Starbucks Coffee.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Starbucks\obj\Debug\netcoreapp3.1\Starbucks Coffee.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Starbucks\obj\Debug\netcoreapp3.1\Starbucks Coffee.dll
+C:\Users\LENOVO\source\repos\Starbucks\obj\Debug\netcoreapp3.1\Starbucks Coffee.pdb
+C:\Users\LENOVO\source\repos\Starbucks\obj\Debug\netcoreapp3.1\Starbucks Coffee.genruntimeconfig.cache
